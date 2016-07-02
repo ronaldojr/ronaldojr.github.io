@@ -12,7 +12,9 @@ http://aurelia.io/hub.html#/doc/article/aurelia/framework/latest/getting-started
 E meu repositório com os arquivos no git:
 
 ronaldojr/aurelia-getting-started 
+```
 git@github.com:ronaldojr/aurelia-getting-started.git
+```
 
 Iniciei um projeto de consulta de logs para repositórios git e decidi utilizar o Aurelia para o front (node e express back) e logo vou compartilhar o resultado.
 
