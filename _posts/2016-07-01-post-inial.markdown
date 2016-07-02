@@ -10,6 +10,7 @@ O tutorial pode ser encontrado em:
 http://aurelia.io/hub.html#/doc/article/aurelia/framework/latest/getting-started
 
 E meu repositório com os arquivos no git:
+
 ```
 git@github.com:ronaldojr/aurelia-getting-started.git
 ```
